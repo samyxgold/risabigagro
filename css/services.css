@@ -1,0 +1,124 @@
+/*
+Template Name: Industry
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+
+/*********************services****************/
+.text-green {
+  color: green;
+}
+.center_serv {
+background-image: url(../img/37.jpg);
+background-position: center;
+}
+.serv_pg2i1i1 span{
+width:100px;
+height:100px;
+line-height:100px;
+border-bottom:3px solid #192437; 
+ }
+.serv_pg2i1i1{
+bottom:-50px;
+left:30px; 
+ }
+.serv_pg2i:hover .serv_pg2i1i1 span{
+background:#ff5316!important;
+color:#fff!important; 
+ }
+ 
+.center_price {
+background-image: url(../img/45.jpg);
+background-position: center;
+}
+/*********************services_end****************/
+
+
+@media screen and (max-width : 767px){
+.plan_1r{
+margin-top:15px; 
+ }
+.plan_1rol{
+margin-top:15px;
+text-align:center; 
+ }
+.plan_1rol p{
+text-align:left; 
+ }
+.plan_1ro1  {
+text-align:center; 
+ }
+.plan_1ro1ri {
+margin-top:15px; 
+ }
+.serv_pg2i2 {
+text-align:center; 
+ }
+.serv_pg2i{
+margin-top:8px;
+margin-bottom:8px; 
+ }
+.price_1lir{
+margin-top:15px; 
+ }
+.price_1l {
+margin-top:8px;
+margin-bottom:8px;  
+ }
+.price_o1i{
+margin-top:8px;
+margin-bottom:8px;   
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+
+ }
+@media (min-width:768px) and (max-width:991px) {
+.plan_1l img{
+min-height:570px; 
+ }
+.plan_1ro1l .button_3{
+padding-left:10px;
+padding-right:10px;
+font-size:14px; 
+ }
+.plan_1ro1ril a{
+font-size:40px; 
+ }
+.serv_pg2i2  .button_3{
+padding-left:15px;
+padding-right:15px; 
+ }
+.serv_pg2i2  h4{
+ font-size:18px;
+ }
+.price_1l {
+padding:10px!important; 
+ }
+.price_1lir h6 span{
+font-size:16px!important; 
+ }
+.price_o1i  .button_4{
+padding-left:15px;
+padding-right:15px;  
+ }
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+.plan_1l img{
+min-height:570px; 
+ }
+.plan_1ro1l .button_3{
+padding-left:20px;
+padding-right:20px;
+ }
+ }
+@media (min-width:1201px) and (max-width:1270px) {
+
+ }
+
+
+

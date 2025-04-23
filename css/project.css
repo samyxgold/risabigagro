@@ -1,0 +1,57 @@
+/*
+Template Name: Industry
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+
+/*********************project****************/
+.text-green {
+  color: green;
+}
+.center_proj {
+background-image: url(../img/43.jpg);
+background-position: center;
+}
+.proj_2{
+margin-bottom:120px;
+}
+.center_proj_dt{
+background-image: url(../img/44.jpg);
+background-position: center; 
+ }
+/*********************project_end****************/
+
+
+@media screen and (max-width : 767px){
+.proj_2 {
+margin-bottom:0;
+}
+.proj_dt1l h2{
+text-align:center; 
+ }
+.proj_dt1l h3{
+text-align:center; 
+ }
+.proj_dt1r{
+margin-top:20px; 
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+
+ }
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1270px) {
+
+ }
+
+
+

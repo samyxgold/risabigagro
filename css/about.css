@@ -1,0 +1,123 @@
+/*
+Template Name: Industry
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+
+/*********************about****************/
+.text-green {
+  color: green;
+}
+.center_about {
+background-image: url(../img/32.jpg);
+background-position: center;
+}
+.serv_2i1{
+background:#fff;
+padding:30px 20px 50px 20px; 
+ }
+.serv_2i2i1 span a{
+display:inline-block;
+border-radius:50%;
+width:50px;
+height:50px;
+line-height:55px;
+background:#ff5316;
+text-align:center;
+font-size:22px;
+color:#fff;
+ }
+.serv_2i2i1 span a:hover{
+background:#192437;
+color:#fff;
+ }
+.serv_2i2i1{
+left:20px; 
+top:-25px;
+ }
+.center_cont{
+background-image: url(../img/36.jpg);
+background-position: center;
+}
+.contact_1lil span {
+width: 60px;
+height: 60px;
+line-height: 60px;
+}
+/*********************about_end****************/
+
+
+@media screen and (max-width : 767px){
+.prog_1ril{
+margin-top:15px; 
+ }
+.prog_1l{
+margin-top:15px;  
+ }
+.serv_2i{
+margin-top:10px;
+margin-bottom:10px; 
+ }
+
+.serv_2i1 h5{
+text-align:center;  
+ }
+.contact_1lil span {
+width: 30px;
+height: 30px;
+line-height: 30px;
+font-size:14px!important;
+}
+.contact_1r{
+margin-top:15px; 
+ }
+.contact_1ril .form-control{
+margin-top:10px;  
+ }
+.contact_1ri {
+margin-top:10px!important;  
+ }
+.contact_1ri h6{
+text-align:center; 
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+.contact_1lil span {
+width: 60px;
+height: 60px;
+line-height: 60px;
+font-size:24px!important;
+}
+ }
+@media (min-width:768px) and (max-width:991px) {
+.prog_1l img{
+min-height:560px; 
+ }
+.contact_1lil span {
+width: 40px;
+height: 40px;
+line-height: 40px;
+font-size:16px!important;
+}
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+.prog_1l img{
+min-height:560px; 
+ }
+.contact_1lil span {
+width: 40px;
+height: 40px;
+line-height: 40px;
+font-size:16px!important;
+}
+ }
+@media (min-width:1201px) and (max-width:1270px) {
+
+ }
+
+
+

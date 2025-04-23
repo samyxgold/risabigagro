@@ -1,0 +1,73 @@
+/*
+Template Name: Industry
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+
+/*********************blog****************/
+.text-green {
+  color: green;
+}
+.center_blog {
+background-image: url(../img/23.jpg);
+background-position: center;
+}
+.blog_1r1 .tags a {
+margin: 0px 2px 6px 0px;
+padding: 8px 16px 8px 16px;
+transition: 0.3s;
+display: block;
+}
+.blog_1r1 .tags a:hover {
+background:#ff5316!important; 
+color:#fff;
+border-color:#ff5316;
+}
+.center_blog_dt{
+background-image: url(../img/27.jpg);
+background-position: center;
+ }
+.blog_1dt1 .blog_h1i3{
+bottom:-25px; 
+ }
+/*********************blog_end****************/
+
+@media screen and (max-width : 767px){
+.blog_1r{
+margin-top:20px; 
+ }
+.blog_1dt3  h2{
+text-align:center; 
+ }
+.blog_1dt3ir {
+margin-top:15px; 
+ }
+.blog_1dt4  h2{
+text-align:center; 
+ }
+.blog_1dt4il{
+margin-top:10px;
+text-align:center; 
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+.blog_1dt3ir {
+margin-top:0; 
+ }
+ }
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1270px) {
+
+ }
+
+
+
